@@ -1,9 +1,9 @@
 {
   "name": "MYPod",
   "version": "0.1.0",
-  "summary": "A short description of MYPod.",
+  "summary": "Zhea renjia tishi le .",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/何国伟/MYPod",
+  "homepage": "https://github.com/MayoHo/MYPod.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MYPod/Classes/**/*"
+  "source_files": "MYPod/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
 }
